@@ -1,24 +1,28 @@
-# Ignore system-specific directories and files
-Application Data/
-Cookies/
-Local Settings/
-My Documents/
-NetHood/
-PrintHood/
-Recent/
-SendTo/
-Start Menu/
-Templates/
-OneDrive/
-AppData/
-Desktop/
-Documents/
-Downloads/
-Favorites/
-Links/
-Music/
-Pictures/
-Saved Games/
-Searches/
-Videos/
-WPS Cloud Files/
+.Ld9VirtualBox/
+        .MemuHyperv/
+        .android/
+        .config/
+        .gitconfig
+        .ms-ad/
+        .vscode/
+        AppData/
+        Contacts/
+        Desktop/
+        Documents/
+        Downloads/
+        Favorites/
+        Links/
+        Music/
+        NTUSER.DAT
+        NTUSER.DAT{7d812fd4-4be6-11ee-a955-f854f614d679}.TM.blf
+        NTUSER.DAT{7d812fd4-4be6-11ee-a955-f854f614d679}.TMContainer00000000000000000001.regtrans-ms
+        NTUSER.DAT{7d812fd4-4be6-11ee-a955-f854f614d679}.TMContainer00000000000000000002.regtrans-ms
+        OneDrive/
+        Pictures/
+        Saved Games/
+        Searches/
+        Videos/
+        WPS Cloud Files/
+        ntuser.dat.LOG1
+        ntuser.dat.LOG2
+        ntuser.ini

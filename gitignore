@@ -1,18 +1,24 @@
-# Ignore OS-generated files
-.DS_Store         # macOS
-Thumbs.db         # Windows
-
-# Ignore log files and temp files
-*.log
-*.tmp
-
-# Ignore node_modules (for Node.js projects)
-node_modules/
-
-# Ignore build folders (for compiled code)
-/dist/
-/build/
-
-# Ignore IDE/editor files
-.vscode/
-.idea/
+# Ignore system-specific directories and files
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+OneDrive/
+AppData/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+WPS Cloud Files/
